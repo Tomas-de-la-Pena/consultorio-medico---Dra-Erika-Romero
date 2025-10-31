@@ -28,7 +28,7 @@ function Footer() {
                             </Link>
                         </li>
                         <li className={`li_footer ${styles.li_footer}`}>
-                            <Link className={`a_footer_ul ${styles.a_footer_ul}`} to="https://wa.me/91137742782" target="_blank" rel="noopener noreferrer">
+                            <Link className={`a_footer_ul ${styles.a_footer_ul}`} to="https://wa.me/91125495253" target="_blank" rel="noopener noreferrer">
                                 <FontAwesomeIcon className={`logo_wpp ${styles.logo_wpp}`} icon={faWhatsapp} size="2x" />Turnos
                             </Link>
                         </li>
