@@ -18,7 +18,7 @@ function Alopecia() {
                         En el patrón femenino, la pérdida de cabello es difusa, no se producen zonas de calvicie total y queda respetada la línea de implantación anterior, es decir no existen entradas. El tratamiento médico consta de intradermoterapia capilar (mesoterapia médica), medicamentos vía oral y Plasma Rico en Plaquetas, todos estos activos que estimulan el crecimiento y engrosamiento del cabello, el aumento de nuevos cabellos y aumento de volumen. Es un tratamiento que consta de varias sesiones que se planifican en el tiempo, donde, con constancia la mejoría es posible.
 
                     </p>
-                    <a href="https://wa.me/91137742782" className={`btn_agendar ${styles.btn_agendar}`}>Agendar Cita</a>
+                    <a href="https://wa.me/+5491125495253" className={`btn_agendar ${styles.btn_agendar}`}>Agendar Cita</a>
                 </div>
                 <div className={`container_beneficios_alopecia ${styles.container_beneficios_alopecia}`}>
                     <h3 className={`h3_beneficios ${styles.h3_beneficios}`}>Beneficios</h3>

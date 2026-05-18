@@ -26,7 +26,7 @@ function ContornoMandibular() {
                     además de estimular a las propias células a generar nuevo colágeno, elastina y ácido hialurónico que mejora la piel
                     de esa región. Los resultados son excelentes.
                 </p>
-                <a href="https://wa.me/91137742782" className={`btn_agendar ${styles.btn_agendar}`}>
+                <a href="https://wa.me/+5491125495253" className={`btn_agendar ${styles.btn_agendar}`}>
                     Agendar Cita
                 </a>
             </div>

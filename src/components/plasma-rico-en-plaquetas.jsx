@@ -17,7 +17,7 @@ function PRP() {
                         Mejora la piel, su estructura interna, la hidratación, la textura y el brillo.
                         En el tratamiento capilar, se estimula el crecimiento de nuevos vasos sanguíneos lo que produce una mejora en la irrigación y nutrición al folículo piloso mejorando su estructura, grosor, aspecto; disminuye la caída, y además genera el crecimiento de nuevos cabellos. En el procedimiento se extrae sangre del paciente y luego de ser procesada, se extrae el plasma rico en plaquetas y se aplica mediante microinyecciones prácticamente indoloras para administrar el PRP y obtener los resultados deseados.
                     </p>
-                    <a href="https://wa.me/91137742782" className={`btn_agendar ${styles.btn_agendar}`}>Agendar Cita</a>
+                    <a href="https://wa.me/+5491125495253" className={`btn_agendar ${styles.btn_agendar}`}>Agendar Cita</a>
                 </div>
                 <div className={`container_beneficios_PRP ${styles.container_beneficios_PRP}`}>
                     <h3 className={`h3_beneficios ${styles.h3_beneficios}`}>Beneficios</h3>

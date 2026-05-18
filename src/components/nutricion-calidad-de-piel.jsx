@@ -17,7 +17,7 @@ function CalidadPiel() {
                         A través de un diagnóstico médico y tratamientos personalizados, se trabajan esas características no deseadas, y se incorporan sustancias activas esenciales para la reproducción el desarrollo y crecimiento de las células de la piel que producen colágeno, elastina, y ácido hialurónico. De esta forma se logran resultados en la piel como la mejoría en la firmeza, en la estructura, en el brillo y en la textura, renovando su aspecto y funcionalidad para una piel sana y de buen aspecto.
 
                     </p>
-                    <a href="https://wa.me/91137742782" className={`btn_agendar ${styles.btn_agendar}`}>Agendar Cita</a>
+                    <a href="https://wa.me/+5491125495253" className={`btn_agendar ${styles.btn_agendar}`}>Agendar Cita</a>
                 </div>
                 <div className={`container_beneficios_piel ${styles.container_beneficios_piel}`}>
                     <h3 className={`h3_beneficios ${styles.h3_beneficios}`}>Beneficios</h3>

@@ -25,7 +25,7 @@ function Despigmentacion() {
                     domicilio, para de esta forma reducir notablemente la variedad de colores y homogeneizar el rostro, o la piel de
                     otras partes del cuerpo.
                 </p>
-                <a href="https://wa.me/91137742782" className={`btn_agendar ${styles.btn_agendar}`}>
+                <a href="https://wa.me/+5491125495253" className={`btn_agendar ${styles.btn_agendar}`}>
                     Agendar Cita
                 </a>
             </div>

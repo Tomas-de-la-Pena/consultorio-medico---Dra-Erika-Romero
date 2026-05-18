@@ -18,7 +18,7 @@ function Intradermoterapia() {
                         los efectos que pudieran afectar la piel como hábitos y el medio ambiente. Ideal aplicarlo post peeling donde la piel está más permeable para recibir y absorber los nutrientes.
 
                     </p>
-                    <a href="https://wa.me/91137742782" className={`btn_agendar ${styles.btn_agendar}`}>Agendar Cita</a>
+                    <a href="https://wa.me/+5491125495253" className={`btn_agendar ${styles.btn_agendar}`}>Agendar Cita</a>
                 </div>
                 <div className={`container_beneficios_intradermoterapia ${styles.container_beneficios_intradermoterapia}`}>
                     <h3 className={`h3_beneficios ${styles.h3_beneficios}`}>Beneficios</h3>

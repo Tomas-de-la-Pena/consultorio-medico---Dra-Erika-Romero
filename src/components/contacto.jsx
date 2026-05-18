@@ -155,15 +155,16 @@ function Contacto() {
 
                     <div className={`div_mapa ${styles.div_mapa}`}>
                         <p>
-                            <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.428575278841!2d-58.452329199999994!3d-34.5680208!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb5daa7dd78bb%3A0x9c668ade4b5958f9!2sCdad.%20de%20la%20Paz%201450%2C%20C1426%20C1426AHA%2C%20Cdad.%20Aut%C3%B3noma%20de%20Buenos%20Aires!5e0!3m2!1ses!2sar!4v1754927681299!5m2!1ses!2sar"
-                                className={`mapa ${styles.mapa}`}
-                                allowFullScreen
-                                loading="lazy"
-                                referrerPolicy="no-referrer-when-downgrade"
-                            >
-                                DIRECCIÓN: La Paz 1450. CABA, Argentina
-                            </iframe>
+                            <div>
+                                <iframe
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.428575278841!2d-58.452329199999994!3d-34.5680208!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb5daa7dd78bb%3A0x9c668ade4b5958f9!2sCdad.%20de%20la%20Paz%201450%2C%20C1426%20C1426AHA%2C%20Cdad.%20Aut%C3%B3noma%20de%20Buenos%20Aires!5e0!3m2!1ses!2sar!4v1754927681299!5m2!1ses!2sar"
+                                    title="Mapa de ubicación en Ciudad de la Paz"
+                                    allowFullScreen
+                                    loading="lazy"
+                                    referrerPolicy="no-referrer-when-downgrade"
+                                    className={`mapa ${styles.mapa}`}
+                                />
+                            </div>
                         </p>
 
                     </div>
