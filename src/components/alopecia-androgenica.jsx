@@ -33,6 +33,6 @@ function Alopecia() {
             </div>
         </div>
     )
-}
+};
 
 export default Alopecia;
